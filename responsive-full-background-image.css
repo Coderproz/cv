@@ -24,6 +24,7 @@ body {
   /* SHORTHAND CSS NOTATION
    * background: url(background-photo.jpg) center center cover no-repeat fixed;
    */
+   overflow: hidden;
 }
 
 /* For mobile devices */
@@ -34,3 +35,5 @@ body {
     background-image: url(images/bg.mob.jpg);
   }
 	}
+	
+	stop-scrolling>
